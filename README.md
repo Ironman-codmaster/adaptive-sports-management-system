@@ -1,5 +1,11 @@
 # 🏫 Программа для спортивной школы
 
+![PyPI](https://img.shields.io/pypi/v/clubhouse_api?color=orange)
+![Python 3.6, 3.7, 3.8](https://img.shields.io/pypi/pyversions/clubhouse?color=blueviolet)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/peopl3s/club-house-api?color=blueviolet)
+![License](https://img.shields.io/pypi/l/clubhouse-api?color=blueviolet) ![Forks](https://img.shields.io/github/forks/peopl3s/club-house-api?style=social)
+
+
 <div align="center">
   <img src="images/puplsw.png" alt="Главное окно" width="600"/>
 </div>
