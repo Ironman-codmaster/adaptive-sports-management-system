@@ -1,9 +1,11 @@
-# 🏫 Программа для спортивной школы
+# Программа для спортивной школы
 
-![PyPI](https://img.shields.io/pypi/v/clubhouse_api?color=orange)
-![Python 3.6, 3.7, 3.8](https://img.shields.io/pypi/pyversions/clubhouse?color=blueviolet)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/peopl3s/club-house-api?color=blueviolet)
-![License](https://img.shields.io/pypi/l/clubhouse-api?color=blueviolet) ![Forks](https://img.shields.io/github/forks/peopl3s/club-house-api?style=social)
+
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Forks](https://img.shields.io/github/forks/Ironman-codmaster/adaptive-sports-management-system)
 
 
 <div align="center">
@@ -82,6 +84,17 @@
 ## 📌 Назначение
 Программа разработана для цифровизации процессов в паралимпийских школах и повышения эффективности работы тренеров и администрации.
 
+<div align="center">
+  <img src="images/logpasw.png" alt="Главное окно" width="600"/>
+</div>
+
+<div align="center">
+  <img src="images/blackw.png" alt="Главное окно" width="600"/>
+</div>
+
+<div align="center">
+  <img src="images/teacherw.png" alt="Главное окно" width="600"/>
+</div>
 
 ![altgraph](https://img.shields.io/badge/altgraph-0.17.4-blue)
 ![contourpy](https://img.shields.io/badge/contourpy-1.3.2-blue)
